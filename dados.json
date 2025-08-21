@@ -1,0 +1,20 @@
+{
+    "nome": "Lana del Rey",
+    "album": "UltraViolence",
+    "style": "Pop",
+    "price": "R$ 204,90",
+    "img": "<img src='img/lanana.png' width='350px'>",
+
+    "nome2": "Arctic Monkeys",
+    "album2": "AM",
+    "style2": "Indie/Rock",
+    "price2": "R$ 380,99",
+    "img2": "<img src='img/tictic.png' width='350px'>",
+    
+    "nome3": "The Weeknd",
+    "album3": "Beauty Behind the Madness",
+    "style3": "R&B/Soul",
+    "price3": "R$ 299,99",
+    "img3": "<img src='img/tictic.png' width='350px'>"
+
+}
